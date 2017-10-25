@@ -2,3 +2,4 @@
 My first repository
 
 Creating my first repository...so far, so good.
+This is cool!
